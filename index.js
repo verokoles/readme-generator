@@ -24,12 +24,12 @@ const questions = [{
     name: "installation",
     message: "What steps did you take to install?"
 },
-//contributions to project (users)
-{
-    type: "input",
-    name: "contributing",
-    message: "Who contributed to this project?"
-},
+//contributions to project (users) are hard-coded
+// {
+//     type: "input",
+//     name: "contributing",
+//     message: "Who contributed to this project?"
+// },
 // tests instructions
 {
     type: "input",

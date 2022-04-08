@@ -32,13 +32,14 @@ function generateMarkdown(data) {
  
   
   > ## ${data.description}
-    ## Table of Contents::mag:
-      1. [ Installation ](#installation)
-      2. [ Usage ](#usage)
-      3. [ License ](#license)
-      4. [ Contributions ](#contributing)
-      5. [ Tests ](#tests) 
-      6. [ Questions? ](#reach-out)
+
+   ## Table of Contents::mag:
+   1. [ Installation ](#installation)
+   2. [ Usage ](#usage)
+   3. [ License ](#license)
+   4. [ Contributions ](#contributing)
+   5. [ Tests ](#tests) 
+   6. [ Questions? ](#reach-out)
 
    ## Installation:
    -  ${data.installation}
@@ -55,9 +56,9 @@ function generateMarkdown(data) {
    ## Tests:
    -  ${data.tests}
 
-   ##:raising_hand: Questions? Reach out!:raising_hand:
-     ### Github:octocat:: ${data.github}
-     ### email:email:: ${data.email}
+   ## Questions? Reach out!:raising_hand:
+    - ### Github:octocat:: ${data.github}
+    - ### email:email:: ${data.email}
 
 ${renderLicenseLink(data.license)}
 
