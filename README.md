@@ -27,8 +27,8 @@
    -  node index
 
    ## Questions? Reach out!:raising_hand:
-     ### Github:octocat:: verkoles
-     ### email:email:: vk@gmail.com
+      :octocat:Github: verkoles
+      :email:email: vk@gmail.com
 
 Apache-2.0
 
