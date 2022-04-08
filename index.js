@@ -24,11 +24,29 @@ const questions = [{
     name: "installation",
     message: "What steps did you take to install?"
 },
-//askk for username
+//contributions to project (users)
+{
+    type: "input",
+    name: "contributing",
+    message: "Who contributed to this project?"
+},
+// tests instructions
+{
+    type: "input",
+    name: "tests",
+    message: "What test(s) ran this application?"
+},
+//askk for username and email for user to reach out with questions
 {
     type: "input",
     name: "github",
 message: "What is your GitHub username?"
+},
+
+{
+    type: "input",
+    name: "email",
+message: "What is your email?"
 },
 //license
 {
