@@ -1,7 +1,7 @@
 # PRO README::arrow_down: 
  
   
-  > ## readme generator using node through comman dline
+  > ## readme generator using node through command line
 
    ## Table of Contents::mag:
    1. [ Installation ](#installation)
@@ -18,7 +18,6 @@
    ## License:
    -  Apache-2.0
    ## Contributions:
-   -  undefined 
      1.  @Xandromus: Xander Rapstine
      2.  @verokoles: Veronica Kolesnikov 
      3.  @gchoi2u: Grace Choi
@@ -27,8 +26,8 @@
    -  node index
 
    ## Questions? Reach out!:raising_hand:
-      Github::octocat: verkoles
-      email::email: vk@gmail.com
+     :octocat::Github: verkoles
+      📧email: vk@gmail.com
 
 Apache-2.0
 
