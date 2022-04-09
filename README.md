@@ -1,7 +1,9 @@
-# PRO README::arrow_down: 
+# dfg::arrow_down: 
  
   
-  > ## readme generator using node through comman dline
+  > ## dgd
+   [![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
+  
 
    ## Table of Contents::mag:
    1. [ Installation ](#installation)
@@ -9,27 +11,27 @@
    3. [ License ](#license)
    4. [ Contributions ](#contributing)
    5. [ Tests ](#tests) 
-   6. [ Questions? ](#reach-out)
+   6. [ Questions? ](#ques)
 
    ## Installation:
-   -  npm install and npm require
+   -  dgdg
    ## Usage:
    -  undefined
    ## License:
    -  Apache-2.0
+   (https://opensource.org/licenses/Apache-2.0)
    ## Contributions:
-   -  undefined 
      1.  @Xandromus: Xander Rapstine
      2.  @verokoles: Veronica Kolesnikov 
      3.  @gchoi2u: Grace Choi
   
    ## Tests:
-   -  node index
+   -  dg
 
    ## Questions? Reach out!:raising_hand:
-    - ### Github:octocat:: verkoles
-    - ### email:email:: vk@gmail.com
+    - :octocat:Github: dg
+    - :email:email: d
 
-Apache-2.0
+
 
 [link to README tutorial video]()
