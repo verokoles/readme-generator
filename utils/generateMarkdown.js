@@ -12,7 +12,7 @@ function renderLicenseBadge(license) {
 // If there is no license, return an empty string
 function renderLicenseLink(license) {
   if ('Apache-2.0') {
-   license = '(https://opensource.org/licenses/Apache-2.0)'
+    license = '(https://opensource.org/licenses/Apache-2.0)'
     // return `${license}`
   } else {
     return ''
@@ -22,46 +22,75 @@ function renderLicenseLink(license) {
 // TODO: Create a function that returns the license section of README
 // If there is no license, return an empty string
 function renderLicenseSection(license) {
-  // require("potential-enigma/utils/LICENSE.txt")
-  // } else {
-  //   return ''
+  if ('Apache-2.0') {
+  section = '("potential-enigma/utils/LICENSE.txt")'
+  } else {
+    return ''
+  }
+  return (license)
 }
 
 // TODO: Create a function to generate markdown for README
 function generateMarkdown(data) {
-  // license badge to appear at top pf page
+  // license badge to appear at top pf page after title
   return `# ${data.title}::arrow_down: 
+  ${renderLicenseBadge()}
  
   
   > ## ${data.description}
-   ${renderLicenseBadge()}
+
+
   
 
    ## Table of Contents::mag:
    1. [ Installation ](#installation)
    2. [ Usage ](#usage)
    3. [ License ](#license)
-   4. [ Contributions ](#contributing)
-   5. [ Tests ](#tests) 
-   6. [ Questions? ](#ques)
+   4. [ Contributing ](#contributing)
+   5. [ Tests ](#tests)
 
    ## Installation:
-   -  ${data.installation}
+
+   To install dependancies, run the following command:
+
+     \`\`\`
+     ${data.installation}
+     \`\`\`
+
    ## Usage:
-   -  ${data.usage}
+
+     ${data.usage}
+
+
    ## License:
-   -  ${data.license}
-   ${renderLicenseLink(data.license)}
-   ## Contributions:
-   ${data.contributing}
-     1.  @Xandromus: Xander Rapstine
-     2.  @verokoles: Veronica Kolesnikov 
-     3.  @gchoi2u: Grace Choi
+
+     ${data.license}
+
+     ${renderLicenseLink(data.license)}
+[Apache-2.0 license](https://opensource.org/licenses/Apache-2.0)
+
+     ${renderLicenseSection(data.license)}
+
+
+  
+
+   ## Contributing:
+
+     ${data.contributing}
   
    ## Tests:
-   -  ${data.tests}
 
-   ## Questions? Reach out!:raising_hand:
+     In order to run tests, use command:
+
+   \`\`\`
+   ${data.tests}
+   \`\`\`
+
+   ## Questions? 
+   
+
+   Reach out!:raising_hand:
+
     - :octocat:Github: ${data.github}
     - :email:email: ${data.email}
 

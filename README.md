@@ -1,35 +1,64 @@
-# dfg::arrow_down: 
+# fdga::arrow_down: 
+  [![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
  
   
-  > ## readme generator using node through command line
+  > ## fdgdfg
+
+
+  
 
    ## Table of Contents::mag:
    1. [ Installation ](#installation)
    2. [ Usage ](#usage)
    3. [ License ](#license)
-   4. [ Contributions ](#contributing)
-   5. [ Tests ](#tests) 
-   6. [ Questions? ](#ques)
+   4. [ Contributing ](#contributing)
+   5. [ Tests ](#tests)
 
    ## Installation:
-   -  dgdg
+
+   To install dependancies, run the following command:
+
+     ```
+     adfgdfg
+     ```
+
    ## Usage:
-   -  undefined
+
+     gdfgd
+
+
    ## License:
-   -  Apache-2.0
-   (https://opensource.org/licenses/Apache-2.0)
-   ## Contributions:
-     1.  @Xandromus: Xander Rapstine
-     2.  @verokoles: Veronica Kolesnikov 
-     3.  @gchoi2u: Grace Choi
+
+     Apache-2.0
+
+     (https://opensource.org/licenses/Apache-2.0)
+[Apache-2.0 license](https://opensource.org/licenses/Apache-2.0)
+
+     Apache-2.0
+
+
+  
+
+   ## Contributing:
+
+     dfgdf
   
    ## Tests:
-   -  dg
 
-   ## Questions? Reach out!:raising_hand:
+     In order to run tests, use command:
+
+   ```
+   dgd
+   ```
+
+   ## Questions? 
    
-     :octocat:: verkoles
-     email📧: vk@gmail.com
+
+   Reach out!:raising_hand:
+
+    - :octocat:Github: gdfg
+    - :email:email: fgf
+
 
 
 [link to README tutorial video]()
