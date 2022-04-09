@@ -1,9 +1,7 @@
 # dfg::arrow_down: 
  
   
-  > ## dgd
-   [![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
-  
+  > ## readme generator using node through command line
 
    ## Table of Contents::mag:
    1. [ Installation ](#installation)
@@ -29,9 +27,9 @@
    -  dg
 
    ## Questions? Reach out!:raising_hand:
-    - :octocat:Github: dg
-    - :email:email: d
-
+   
+     :octocat:: verkoles
+     email📧: vk@gmail.com
 
 
 [link to README tutorial video]()
