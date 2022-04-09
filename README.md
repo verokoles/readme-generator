@@ -59,9 +59,9 @@
 
   ### Reach out via:
 
-    :octocat:Github: verokoles
+    Github: verokoles
     
-    :email:email: verokoles88@gmail.com
+    📧 email: verokoles88@gmail.com
 
 
 
