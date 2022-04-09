@@ -2,7 +2,7 @@
   [![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
  
   
-  > ## Using the command line, the command 'node index' runs to display questions and the user inputs answers. This generates a porfessional README.md file.
+  > ## This project used mainly NODE.js to generate a professional markdown file in the command line using command: 'node index'
 
 
   
@@ -24,7 +24,7 @@
 
    ## Usage:
 
-     This a professional platform. Please be polite and professional at all times.
+     This is a professional platform. Please be respectful and kind of others.
 
 
    ## License: 
@@ -42,7 +42,7 @@
 
    ## Contributing:
 
-     Please make sure to create pull requests!
+     Pull requests are highly recommended when contributing to this project!
 
   [More on Contribution Guidelines](https://github.com/verokoles/readme-generator/blob/3220778d2f594c3353146c586712b23435a1ebd6/contributing.md)
   
