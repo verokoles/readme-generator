@@ -40,7 +40,6 @@ function generateMarkdown(data) {
   > ## ${data.description}
 
 
-  
 
    ## Table of Contents::mag:
    1. [ Installation ](#installation)
@@ -94,9 +93,9 @@ function generateMarkdown(data) {
 
   ### Reach out via:
 
-    :octocat:Github: ${data.github}
-    
-    :email:email: ${data.email}
+     Github: ${data.github}
+
+     email: ${data.email}
 
 
 

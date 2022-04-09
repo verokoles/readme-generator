@@ -2,10 +2,9 @@
   [![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
  
   
-  > ## This project used mainly NODE.js to generate a professional markdown file in the command line using command: 'node index'
+  > ## Using the command line, a user can type 'node index' to generate a series of questions and input the answers that will generate a README.md file.
 
 
-  
 
    ## Table of Contents::mag:
    1. [ Installation ](#installation)
@@ -24,7 +23,7 @@
 
    ## Usage:
 
-     This is a professional platform. Please be respectful and kind of others.
+     This is a professional platform. Please be kind and appropriate when contributing to this repo.
 
 
    ## License: 
@@ -42,7 +41,7 @@
 
    ## Contributing:
 
-     Pull requests are highly recommended when contributing to this project!
+     Pull requests are required!
 
   [More on Contribution Guidelines](https://github.com/verokoles/readme-generator/blob/3220778d2f594c3353146c586712b23435a1ebd6/contributing.md)
   
@@ -59,9 +58,9 @@
 
   ### Reach out via:
 
-    :octocat:Github: verokoles
-    
-    :email:email: verokoles88@gmail.com
+     Github: verokoles
+
+     email: verokoles88@gmail.com
 
 
 
