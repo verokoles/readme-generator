@@ -1,8 +1,8 @@
-# fdga::arrow_down: 
+# PROFESSIONAL README GENERATOR::arrow_down: 
   [![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
  
   
-  > ## fdgdfg
+  > ## using Node.js, the command line generates a README.md file with the command 'node index'.
 
 
   
@@ -19,46 +19,50 @@
    To install dependancies, run the following command:
 
      ```
-     adfgdfg
+     npm install, npm require
      ```
 
    ## Usage:
 
-     gdfgd
+     Please be polite and courteous of others. This is a professional platform!
 
 
-   ## License:
+   ## License: 
 
-     Apache-2.0
+     Apache-2.0 
 
      (https://opensource.org/licenses/Apache-2.0)
-[Apache-2.0 license](https://opensource.org/licenses/Apache-2.0)
 
      Apache-2.0
+
+  [Link to Apache-2.0 license](https://opensource.org/licenses/Apache-2.0)
 
 
   
 
    ## Contributing:
 
-     dfgdf
+     Creating pull requests !
+
+  [More on Contribution Guidelines](https://github.com/verokoles/readme-generator/blob/3220778d2f594c3353146c586712b23435a1ebd6/contributing.md)
   
    ## Tests:
 
      In order to run tests, use command:
 
    ```
-   dgd
+   npm test
    ```
 
-   ## Questions? 
+   ## Questions?:raising_hand:
    
 
-   Reach out!:raising_hand:
+  ### Reach out via:
 
-    - :octocat:Github: gdfg
-    - :email:email: fgf
+    :octocat:Github: verokoles
+    
+    :email:email: verokoles88@gmail.com
 
 
 
-[link to README tutorial video]()
+  [link to README tutorial video]()

@@ -62,14 +62,15 @@ function generateMarkdown(data) {
      ${data.usage}
 
 
-   ## License:
+   ## License: 
 
-     ${data.license}
+     ${data.license} 
 
      ${renderLicenseLink(data.license)}
-[Apache-2.0 license](https://opensource.org/licenses/Apache-2.0)
 
      ${renderLicenseSection(data.license)}
+
+  [Link to Apache-2.0 license](https://opensource.org/licenses/Apache-2.0)
 
 
   
@@ -77,6 +78,8 @@ function generateMarkdown(data) {
    ## Contributing:
 
      ${data.contributing}
+
+  [More on Contribution Guidelines](https://github.com/verokoles/readme-generator/blob/3220778d2f594c3353146c586712b23435a1ebd6/contributing.md)
   
    ## Tests:
 
@@ -86,17 +89,18 @@ function generateMarkdown(data) {
    ${data.tests}
    \`\`\`
 
-   ## Questions? 
+   ## Questions?:raising_hand:
    
 
-   Reach out!:raising_hand:
+  ### Reach out via:
 
-    - :octocat:Github: ${data.github}
-    - :email:email: ${data.email}
+    :octocat:Github: ${data.github}
+    
+    :email:email: ${data.email}
 
 
 
-[link to README tutorial video]()
+  [link to README tutorial video]()
 `;
 }
 

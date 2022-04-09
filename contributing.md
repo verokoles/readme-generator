@@ -1,3 +1,5 @@
+# BE POLITE AND PROFESSIONAL
+ No use of profanity, sexual language, or any kind of harassment will be tolerated on this platform.
 # Issues and Pull Requests
 You can contribute to the project without writing any code by submitting issues and pull requests as they come in.
 
