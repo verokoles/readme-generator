@@ -34,7 +34,7 @@ const questions = [{
 {
     type: "input",
     name: "tests",
-    message: "What test(s) ran this application?"
+    message: "What test(s) instuctions this application?"
 },
 //askk for username and email for user to reach out with questions
 {
