@@ -58,9 +58,9 @@
 
   ### Reach out via:
 
-     Github: verokoles
-
-     email: verokoles88@gmail.com
+    Github: verokoles
+    
+    📧 email: verokoles88@gmail.com
 
 
 
